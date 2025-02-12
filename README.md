@@ -17,6 +17,9 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 - **Technical Writing & Research**: Accomplished in **scientific publication writing and technical documentation** for knowledge dissemination.  
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxmarumbwa&show_icons=true&theme=dark)
+
+
 <!--
 **maxmarumbwa/maxmarumbwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

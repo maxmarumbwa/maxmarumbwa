@@ -5,7 +5,7 @@
 [![https://www.facebook.com/farai.marumbwa.7/](https://img.shields.io/badge/Facebook-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://www.facebook.com/farai.marumbwa.7/)
 
 ## Summary  
-Seasoned Geospatial Data Scientist with over 15 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
+Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
 
 
 ## Areas of Expertise  

@@ -1,4 +1,11 @@
-## Hi there 👋
+# Farai Maxwell Marumbwa👋
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-farai%20marumbwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farai-maxwell-marumbwa-01328529/)
+[![https://x.com/FMarumbwa](https://img.shields.io/badge/Twitter-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fmarumbwa)
+[![https://x.com/FMarumbwa](https://img.shields.io/badge/Facebook-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fmarumbwa)
+![Facebook Badge](https://img.shields.io/badge/Follow-Farai%20Marumbwa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/follow-farai%20marumbwa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+
 
 <!--
 **maxmarumbwa/maxmarumbwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

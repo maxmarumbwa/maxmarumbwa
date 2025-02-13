@@ -3,12 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-farai%20marumbwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farai-maxwell-marumbwa-01328529/)
 [![https://x.com/FMarumbwa](https://img.shields.io/badge/Twitter-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fmarumbwa)
 [![https://www.facebook.com/farai.marumbwa.7/](https://img.shields.io/badge/Facebook-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://www.facebook.com/farai.marumbwa.7/)
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-
-
-
 ## Summary  
 Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
 

@@ -1,6 +1,6 @@
 # Farai Maxwell Marumbwa👋
-<h3>Programming languages</h3>
-<p>
+
+<p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="Google Earth Engine" src="https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat-square&logo=google-earth&logoColor=white" />
@@ -8,15 +8,24 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+<h3>Education</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🧑‍🎓 PhD Environment & Society</b></td>
+      <td><b>🌍 Master in Environmental Policy and Planning </b></td>
+      <td><b>🗺️ BA Hons Geography</></td>
+    </tr>
+  </table>
 
-
-## Summary  
+### Summary  
 Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
 
 
-## Areas of Expertise  
+### Areas of Expertise  
 - **Programming**: Skilled in Python, R, Google Earth Engine (GEE) and version control with Git.  
 - **Data Science & Analytics**: Advanced skills in Power BI, Tableau, and R Shiny, along with mobile data collection via ODK.  
 - **Project Management**: Proven track record in managing EU and USAID-funded projects.  

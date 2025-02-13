@@ -11,6 +11,10 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+### Introduction  
+Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
+
+
 <h3>Education</h3>
 <table>
   <thead align="center">
@@ -22,17 +26,14 @@
   </table>
 
 
-### Summary  
-Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
 
-
-### Areas of Expertise  
+### Skills and Expertise  
 - **Programming**: Skilled in Python, R, Google Earth Engine (GEE) and version control with Git.  
 - **Data Science & Analytics**: Advanced skills in Power BI, Tableau, and R Shiny, along with mobile data collection via ODK.  
 - **Project Management**: Proven track record in managing EU and USAID-funded projects.  
 - **Food Security & Humanitarian GIS Applications**: Proficient in leveraging GIS and Remote Sensing for food security, environmental monitoring, and humanitarian initiatives.  
 - **Disaster Risk & Climate Resilience**: Strategic in implementing **Anticipatory Action, Parametric Insurance, and Contingency Planning for risk mitigation.  
-- **Technical Writing & Research**: Accomplished in **scientific publication writing and technical documentation for knowledge dissemination.  
+- **Technical Writing & Research**: Accomplished in scientific publication writing and technical documentation for knowledge dissemination.  
 
 
 ### My latest research
@@ -46,6 +47,7 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
   
 - **Archer, Emma Rosa Mary; Landman, Willem Adolf; Tadross, Mark Alexander; Malherbe, Johan; Weepener, Harold; Maluleke, Phumzile; Marumbwa, Farai Maxwell, 2017** *Understanding the evolution of the 2014–2016 summer rainfall seasons in southern Africa: Key lessons*, Climate Risk Management, pp.0–6. Available at: [DOI link](http://dx.doi.org/10.1016/j.crm.2017.03.006).
 
+
 ### GitHub Activity
 
 <p align="left">
@@ -54,7 +56,11 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
   <img src="https://github-readme-stats.vercel.app/api?username=maxmarumbwa&show_icons=true&theme=radical" height="140">
 </p>
 
-### Get in touch
+### Interests and Hobbies
+- Chess
+- Walking
+
+### Social Media Links
 [![ResearchGate Badge](https://img.shields.io/badge/follow-farai%20marumbwa-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Farai-Marumbwa)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-farai%20marumbwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farai-maxwell-marumbwa-01328529/)
 [![https://x.com/FMarumbwa](https://img.shields.io/badge/Twitter-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fmarumbwa)

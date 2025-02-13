@@ -34,6 +34,17 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 - **Technical Writing & Research**: Accomplished in **scientific publication writing and technical documentation for knowledge dissemination.  
 
 
+### My latest research
+- **UNDRR Global Assessment Report on Disaster Risk Reduction** - *Mapping Resilience for the Sustainable Development Goals (GAR2023)*. Contributing author from UNICEF HQ. [DOI linkL](https://www.undrr.org/media/88718/download)
+  
+- **Marumbwa FM, Cho MA, and Chirwa PW. (2020)** *An assessment of remote sensing-based drought index over different land cover types in southern Africa*, International Journal of Remote Sensing, 41:19, 7368-7382. Available at: [DOI link](https://doi.org/10.1080/01431161.2020.1757783).
+  
+- **Marumbwa FM, Cho MA, and Chirwa PW. (2020)** *Geospatial analysis of meteorological drought impact on southern Africa biomes*, International Journal of Remote Sensing, Volume 42, 2021 - Issue 6.Available at: [DOI link](https://doi.org/10.1080/01431161.2020.1851799).
+  
+- **Marumbwa FM, Cho MA, and Chirwa PW. (2019)** *Analysis of spatio-temporal rainfall trends across southern African biomes between 1981 and 2016*, Physics and Chemistry of the Earth, Parts A/B/C.Available at: [DOI link](https://doi.org/10.1016/j.pce.2019.10.004).
+  
+- **Archer, Emma Rosa Mary; Landman, Willem Adolf; Tadross, Mark Alexander; Malherbe, Johan; Weepener, Harold; Maluleke, Phumzile; Marumbwa, Farai Maxwell, 2017** *Understanding the evolution of the 2014–2016 summer rainfall seasons in southern Africa: Key lessons*, Climate Risk Management, pp.0–6. Available at: [DOI link](http://dx.doi.org/10.1016/j.crm.2017.03.006).
+
 ### GitHub Activity
 
 <p align="left">

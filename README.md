@@ -11,10 +11,10 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 
 
 ## Areas of Expertise  
-- **Geospatial Cloud Computing**: Skilled in *Google Earth Engine (GEE) and version control with *Git**.  
-- **Data Science & Analytics**: Advanced skills in Power BI, Tableau, and R Shiny**, along with mobile data collection via ODK.  
+- **Porgramming**: Skilled in Python, R, Google Earth Engine (GEE) and version control with Git.  
+- **Data Science & Analytics**: Advanced skills in Power BI, Tableau, and R Shiny, along with mobile data collection via ODK.  
 - **Project Management**: Proven track record in managing EU and USAID-funded projects.  
-- **Food Security & Humanitarian GIS Applications**: Proficient in leveraging GIS and Remote Sensing for **food security, environmental monitoring, and humanitarian initiatives.  
+- **Food Security & Humanitarian GIS Applications**: Proficient in leveraging GIS and Remote Sensing for food security, environmental monitoring, and humanitarian initiatives.  
 - **Disaster Risk & Climate Resilience**: Strategic in implementing **Anticipatory Action, Parametric Insurance, and Contingency Planning for risk mitigation.  
 - **Technical Writing & Research**: Accomplished in **scientific publication writing and technical documentation for knowledge dissemination.  
 

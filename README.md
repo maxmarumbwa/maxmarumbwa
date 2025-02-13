@@ -4,6 +4,9 @@
 [![https://x.com/FMarumbwa](https://img.shields.io/badge/Twitter-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fmarumbwa)
 [![https://www.facebook.com/farai.marumbwa.7/](https://img.shields.io/badge/Facebook-Follow%20%40fmarumbwa-%231DA1F2?logo=twitter&logoColor=white)](https://www.facebook.com/farai.marumbwa.7/)
 
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+
 
 
 ## Summary  
@@ -23,17 +26,3 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 
 
 
-<!--
-**maxmarumbwa/maxmarumbwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

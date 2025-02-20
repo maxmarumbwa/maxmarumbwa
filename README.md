@@ -37,7 +37,7 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 
 
 ### My latest research
-- **UNDRR Global Assessment Report on Disaster Risk Reduction** - *Mapping Resilience for the Sustainable Development Goals (GAR2023)*. Contributing author from UNICEF HQ. [DOI linkL](https://www.undrr.org/media/88718/download)
+- **UNDRR Global Assessment Report on Disaster Risk Reduction** - *Mapping Resilience for the Sustainable Development Goals **(2023)**. Contributing author from UNICEF HQ. [DOI linkL](https://www.undrr.org/media/88718/download)
   
 - **Marumbwa FM, Cho MA, and Chirwa PW. (2020)** *An assessment of remote sensing-based drought index over different land cover types in southern Africa*, International Journal of Remote Sensing, 41:19, 7368-7382. Available at: [DOI link](https://doi.org/10.1080/01431161.2020.1757783).
   

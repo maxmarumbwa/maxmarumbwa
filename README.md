@@ -11,6 +11,34 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  </a>
+  <a href="https://earthengine.google.com/" target="_blank">
+    <img alt="Google Earth Engine" src="https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat-square&logo=google-earth&logoColor=white" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </a>
+</p>
+
+
 ### Introduction  
 Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
 

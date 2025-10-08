@@ -87,7 +87,12 @@ Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and re
 ### 📊 GitHub Stats
 
 <!-- 2025 commit activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxmarumbwa&theme=radical&custom_title=Commits%20in%202025&hide_border=true" />
+### 📅 Monthly Commits in 2025
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxmarumbwa&theme=radical&custom_title=Monthly%20Commits%20in%202025&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxmarumbwa&theme=radical&utcOffset=2" />
+
 
 
 

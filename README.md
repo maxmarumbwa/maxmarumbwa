@@ -28,7 +28,7 @@
 
 
 ### Introduction  
-Seasoned Geospatial Data Scientist with over 16 years of expertise in GIS and remote sensing service development, specializing in automation of GIS and remote sensing workflows, GIS software development, and leading GIS and remote sensing capacity-building initiatives. I possess extensive international experience in geospatial risk analysis and supporting countries across Asia, the Middle East, Europe, the Caribbean, and Africa with organizations such as UNICEF, UN-WFP, NASA, the European Union, African Union. 
+Geospatial Data Scientist and Full-Stack Geospatial Engineer with 17+ years of experience designing and deploying Earth-observation-driven decision support systems for climate risk, drought early warning, food security, and disaster preparedness. Expert in satellite time-series analytics (GEE, Python, R), spatial databases (PostGIS), and web-based geospatial platforms (Django, Flask, REST APIs, Leaflet, GeoServer). Proven track record delivering national and regional early warning systems for governments and international organizations (World Bank, UNICEF, WFP, SADC), bridging science, engineering, and policy into operational products.
 
 
 <h3>Education</h3>

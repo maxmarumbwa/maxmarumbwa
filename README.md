@@ -44,27 +44,27 @@ Geospatial Data Scientist and Full-Stack Geospatial Engineer with 17+ years of e
 
 
 ### Skills and Expertise 
-### Geospatial & Data Science
-- **EO time-series analysis (NDVI, SPI, rainfall, LST)
-- **Drought, flood, crop & climate risk modeling
-- **Google Earth Engine (production workflows)
-- **Python, R (automation, analytics, geoprocessing, ML-assisted classification)
+#### Geospatial & Data Science
+- EO time-series analysis (NDVI, SPI, rainfall, LST)
+- Drought, flood, crop & climate risk modeling
+- Google Earth Engine (production workflows)
+- Python, R (automation, analytics, geoprocessing, ML-assisted classification)
 
 #### Full-Stack Geospatial Engineering
-- **Proficient in leveraging GIS and Remote Sensing for advanced food security, environmental monitoring and impactful humanitarian initiatives.
-- **•	Backend & APIs: Django, Flask, FastAPI, Django REST Framework, Node.js. 
-- **Frontend: React, HTML, CSS, Bootstrap, Leaflet. 
-- **DevOps & Cloud: Git, GitHub, Linux, AWS, Azure, Docker, GeoServer.
-- **Data Science & ML: Google Earth Engine, Scikit-learn, TensorFlow, Tableau, Shiny
-- **Spatial Databases: PostgreSQL/PostGIS, MongoDB, MySQL
-- **Map Services: GeoServer, WMS/WFS, tiled rasters
-- **Dashboards & Visualization: Leaflet, Power BI, R Shiny
-- **Geospatial Tools: QGIS, ArcGIS, Google Earth Engine, GeoServer, Leaflet, GDAL, ArcPy.
+- Proficient in leveraging GIS and Remote Sensing for advanced food security, environmental monitoring and impactful humanitarian initiatives.
+- Backend & APIs: Django, Flask, FastAPI, Django REST Framework, Node.js. 
+- Frontend: React, HTML, CSS, Bootstrap, Leaflet. 
+- DevOps & Cloud: Git, GitHub, Linux, AWS, Azure, Docker, GeoServer.
+- Data Science & ML: Google Earth Engine, Scikit-learn, TensorFlow, Tableau, Shiny
+- Spatial Databases: PostgreSQL/PostGIS, MongoDB, MySQL
+- Map Services: GeoServer, WMS/WFS, tiled rasters
+- Dashboards & Visualization: Leaflet, Power BI, R Shiny
+- Geospatial Tools: QGIS, ArcGIS, Google Earth Engine, GeoServer, Leaflet, GDAL, ArcPy.
 
 #### DevOps & Delivery
-- **Git/GitHub, CI concepts
-- **Cloud: Azure, AWS (deployment exposure)
-- **Agile / Scrum (PMI, Azure DevOps)
+- Git/GitHub, CI concepts
+- Cloud: Azure, AWS (deployment exposure)
+- Agile / Scrum (PMI, Azure DevOps)
 
 ### My latest research
 - **UNDRR Global Assessment Report on Disaster Risk Reduction** - *Mapping Resilience for the Sustainable Development Goals **(2023)**. Contributing author from UNICEF HQ. [DOI linkL](https://www.undrr.org/media/88718/download)

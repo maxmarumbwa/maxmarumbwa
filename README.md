@@ -28,7 +28,7 @@
 
 
 ### Introduction  
-Geospatial Data Scientist and Full-Stack Geospatial Engineer with over 17 years of experience designing Earth-observation-driven decision-support systems for environmental and climate risk, complemented by more than 4 years of full-stack web development experience. Expert in satellite time-series analytics using Google Earth Engine, Python, and R; spatial databases with PostGIS; and web-based geospatial platforms including Django, Flask, REST APIs, Leaflet, and GeoServer. Extensive experience delivering national and regional early-warning systems for governments and international organizations such as the World Bank, UNICEF, UN-WFP, and SADC, translating scientific analysis into operational, policy-relevant data products.
+Geospatial Data Scientist and Full-Stack Geospatial Engineer with over 17 years of experience designing Earth-observation-driven decision-support systems for environmental and climate risk monitoring applications. Expert in satellite time-series analytics using Google Earth Engine, Python, and R; spatial databases with PostGIS; and web-based geospatial platforms including Django, Flask, REST APIs, Leaflet, and GeoServer. Extensive experience delivering national and regional early-warning systems for governments and international organizations such as the World Bank, UNICEF, UN-WFP, and SADC, translating scientific analysis into operational, policy-relevant data products.
 
 
 <h3>Education</h3>
